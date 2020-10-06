@@ -1,1 +1,2 @@
-# High-dimensional-feature-selection-of-medical-data
+# High-Dimensional-Feature-Selection-of-Medical-Data
+Feature Selection by Optimized LASSO algorithm
